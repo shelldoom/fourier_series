@@ -1,0 +1,6 @@
+black = (0, 0, 0)
+white = (255, 255, 255)
+red = (255, 0, 0)
+yellow = (255, 255, 0)
+medium_violet_red = (199,21,133)
+midnight_blue = (25,25,112)
